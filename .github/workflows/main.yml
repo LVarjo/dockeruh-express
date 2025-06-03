@@ -3,7 +3,7 @@ name: Build and Push Dockr Image
 on:
   push:
     branches:
-          - main
+          - master
 
 jobs:
   build:  # name of the job
